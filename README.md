@@ -13,5 +13,5 @@ four.meme Bundler script:
 - Real-Time Monitoring – Track balances, filters, and buys LIVE
 
 # Links
-TG: https://t.me/fourmeme_bundler
-Video: https://www.youtube.com/watch?v=dmNkx5bPk8U
+- TG: https://t.me/fourmeme_bundler
+- Video: https://www.youtube.com/watch?v=dmNkx5bPk8U
